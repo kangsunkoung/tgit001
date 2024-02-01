@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 sksksksksksksksk
 sksksksksksksksk
 sksksksksksksksk
 sksksksksksksksk
 
 
+=======
+kjfdskljasdfkj
+kjfdskljasdfkj
+kjfdskljasdfkj
+>>>>>>> brh3
